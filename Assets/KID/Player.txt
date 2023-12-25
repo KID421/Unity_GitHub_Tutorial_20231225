@@ -4,6 +4,6 @@ namespace KID
 {
 	public class Player : MonoBehabiour
 	{
-
+		private int moveSpeed = 15;
 	}
 }
